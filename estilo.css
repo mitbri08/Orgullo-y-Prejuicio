@@ -1,0 +1,42 @@
+*{
+	padding: 0;
+	margin: 0;
+
+}
+
+
+h1{text-align: center;
+padding: 20px;
+	background-color: #b36538;
+	background-color: ;
+}
+nav ul{
+	background-color: #eab9b9;
+	width: 100%;
+	list-style-type:none;
+	text-align: center;
+
+}
+nav li{
+	display:inline-flex;
+}
+nav a {
+	text-decoration: none;
+	color: #000000;
+	padding: 20px;
+	width: 150px;
+
+}
+nav li:hover {
+	background-color: #b36538;
+}
+bod¨{
+	text-align: center;
+	font-family:forte;
+}
+
+sec-1{
+<img src=¨c:\Users\Mitzi\OneDrive\Imágenes\powtoon\orgullo-y-prejuicio.jpeg"/>
+text-align: center;
+
+}
